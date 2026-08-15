@@ -13,7 +13,7 @@
 | メンバー | きよごん、とばっち、たく |
 | タイトル | **WhyTrade JP「オレたちは、雰囲気で株をやっている。」** |
 | イベント | AIAU Craft Day「3日間でアプリ・サービスをローンチせよ！」 |
-| サービスURL | [WhyTrade JPを開く](https://whytrade.kaminokuresse.workers.dev/)（イベント用合言葉で保護） |
+| サービスURL | [WhyTrade JPを開く](https://whytrade.kaminokuresse.workers.dev/)（審査期間中はログイン不要） |
 | 公開プレゼン | [横スクロール版を見る](https://whytrade.kaminokuresse.workers.dev/presentation/) |
 | GitHub | [提出用Publicリポジトリ](https://github.com/kiyogon/whytrade-jp-showcase) |
 
@@ -123,7 +123,7 @@ Python損益計算機
   ├─ Supabase Pro（計算結果、スコア、判断理由）
   └─ 非公開Cloudflare R2（画面用Report JSON）
         ↓
-Cloudflare Worker（API、WebSocket、日次更新、合言葉ゲート）
+Cloudflare Worker（API、WebSocket、日次更新、期間限定公開モード）
         ↓
 Next.jsで作ったブラウザ画面
 ```
