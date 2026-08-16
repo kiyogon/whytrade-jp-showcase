@@ -15,7 +15,7 @@
 | イベント | AIAU Craft Day「3日間でアプリ・サービスをローンチせよ！」 |
 | サービスURL | [WhyTrade JPを開く](https://whytrade.kaminokuresse.workers.dev/)（審査期間中はログイン不要） |
 | 公開プレゼン | [横スクロール版を見る](https://whytrade.kaminokuresse.workers.dev/presentation/) |
-| 紹介動画 | [ずんだもんによる紹介動画を見る](https://youtu.be/Lhb3NfeFLz4)（音声：VOICEVOX:ずんだもん） |
+| 紹介動画 | [あいちゃんと四国めたんによる紹介動画を見る](https://youtu.be/1QIPV3vGaW8)（音声：VOICEVOX:四国めたん） |
 | GitHub | [提出用Publicリポジトリ](https://github.com/kiyogon/whytrade-jp-showcase) |
 
 ![WhyTrade JPの実際のトップページ](assets/whytrade-home.jpg)
